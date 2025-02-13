@@ -214,3 +214,8 @@ nav{
     line-height: 75px;
     cursor: pointer;
 }
+
+.plan .recommended{
+    background-color: rgb(253, 56, 56);
+}
+
