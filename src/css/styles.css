@@ -326,4 +326,22 @@ footer{
 
 /* small laptops a partir de 1100px */
 
-@media (max-width: 1100px)
+@media (max-width: 1100px){
+
+    .plans-container{
+        width: 95%;
+    }
+
+    .plan{
+        margin: 0 5px;
+    }
+}
+
+/* tablet 900px */
+@media (max-width: 900px){
+
+    .main-banner p{
+        font-size: 32px;
+        padding: 0 6rem;
+    }
+}
