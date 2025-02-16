@@ -360,5 +360,12 @@ footer{
     .plan{
         width: 100%;
         max-width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .contact-container input,
+    .contact-container textarea{
+        width: 100%;
+        margin: 10px 0;
     }
 }
