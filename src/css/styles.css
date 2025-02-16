@@ -341,7 +341,24 @@ footer{
 @media (max-width: 900px){
 
     .main-banner p{
-        font-size: 32px;
         padding: 0 6rem;
+    }
+
+    .serchdomain-container {
+        padding: 2rem;
+    }
+}
+
+/* celular 576px */
+
+@media (max-width: 576px){
+
+    .plans-container{
+        flex-direction: column;
+        width: 100%;
+    }
+    .plan{
+        width: 100%;
+        max-width: 100%;
     }
 }
