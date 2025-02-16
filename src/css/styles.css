@@ -351,7 +351,7 @@ footer{
 
 /* celular 576px */
 
-@media (max-width: 576px){
+@media (max-width: 570px){
 
     .plans-container{
         flex-direction: column;
