@@ -304,3 +304,11 @@ nav{
     height: 150px;
 }
 
+.contact-container input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    background-color: #2cc76a;
+    color: #fff;
+    cursor: pointer;
+}
+
